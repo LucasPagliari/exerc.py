@@ -8,3 +8,6 @@ textA.close()
 
 textA   = open("archive.txt", "r")
 print(textA.read()) 
+
+# Volta o cursor para o inicio, pois o read fica no final
+textA.seek(0)
