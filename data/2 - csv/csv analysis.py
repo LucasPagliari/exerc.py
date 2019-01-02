@@ -1,6 +1,6 @@
 # Dados obtidos em: https://data.cityofchicago.org/
 
-f           = open("dados/2 - csv/payments.csv","r")
+f           = open("data/2 - csv/backup/payments.csv","r")
 pay         = f.read()
 rows        = pay.split("\n")
 full_data   = []

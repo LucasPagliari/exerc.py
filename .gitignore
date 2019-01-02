@@ -1,6 +1,16 @@
 .vscode/settings.json
+
 data/1 - txt/zorb.txt
 data/1 - txt/archive.txt
-data/2 - csv/backup/payments.csv
-data/2 - csv/payments.csv
+
+data/2 - csv/backup
+data/2 - csv/dic_group.csv
+data/2 - csv/new_group.csv
+data/.vscode/settings.json
+
 data/3 - json/dados.json
+
+
+
+
+

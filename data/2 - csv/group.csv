@@ -1,0 +1,16 @@
+group_name,group_owner,group_code
+Administrators,sysadmin,100
+High Teachers,HSTeachers,101
+Middle Teachers,MSTeachers,102
+Elementary Teachers,Elem Teachers,103
+1st Grade Teachers,1stgrade,104
+2nd Grade Teachers,2nsgrade,105
+3rd Grade Teachers,3rdgrade,106
+Guidance Department,guidance,107
+Math Teachers,HS Math,108
+English Teachers,HSEnglish,109
+8th Grade Teachers,8thgrade,110
+7th Grade Teachers,7thgrade,111
+Elementary Parents,Parents,112
+Middle School Parents,MSParents,113
+High School Parents HSParents,114
