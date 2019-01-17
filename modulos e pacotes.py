@@ -9,5 +9,5 @@ i = 0
 for x in html:
     if i < 100:
         print(x)
-        
+    i+=1    
 print(html)
