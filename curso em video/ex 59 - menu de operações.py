@@ -5,7 +5,7 @@ menu = """
 	[ 4 ] Novos Números
 	[ 5 ] Sair do Programa
 """
-i=4
+i = 4
 
 while i != 5:
 
@@ -23,7 +23,7 @@ while i != 5:
 		num2 = int(input("Digite outro número: "))
 	
 	print(menu)
-	i= int(input("Selecione sua opção: "))
+	i = int(input("Selecione sua opção: "))
 	print(" ")
 
 print("ByeBye")
