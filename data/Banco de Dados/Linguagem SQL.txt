@@ -1,0 +1,13 @@
+SQL - Structured Query Language
+	DDL = Data Definition Language
+		* CREATE: definir um objeto(tabela)
+		* ALTER: alterar objeto
+		* DROP: eliminar objeto
+	DML = Data Manipulation  Language
+		* SELECT: pesquisar
+		* UPDATE: atualizar
+		* DELETE: eliminar
+		* INSERT: inserção
+	DCL = Data Control  Language
+		* GRANTE: fornece permissão
+		* REVOKE: retira permissão
