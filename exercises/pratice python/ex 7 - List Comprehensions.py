@@ -2,8 +2,6 @@ import random
 
 lista1 = sorted(random.sample(range(0,20),15))
 lista2 = random.sample(range(0,20),15)
-print("Lista 1: " + str(lista1))
-print("Lista 2: " + str(lista2))
 
 pares = []
 for i in lista:

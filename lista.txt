@@ -1,0 +1,9 @@
+Tipos_Endentação_Condicinais
+Manipulação_de_Textos
+Loops_Listas
+Dicionários
+Funções
+Módulos
+JoKenPo
+Interface_Gráfica
+POO

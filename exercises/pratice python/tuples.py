@@ -1,12 +1,10 @@
-import random
-
-lis = sorted(random.sample(range(0,50),20))
-print(lis)
-
 # Não podem ser alteradas
-tuple_ex = ("Sou","eu","Lucas")
-tup = tuple(lis)
-print(tup)
+from collections import namedtuple
 
-st = set(lis)
-print(st)
+Lucas = namedtuple('Lucas',['lastname', 'age', 'favcolor']) 
+
+p = Lucas('Pagliari', 20, 'Blue')
+
+print(p.lastname)
+print(p.age)
+print(p.favcolor)

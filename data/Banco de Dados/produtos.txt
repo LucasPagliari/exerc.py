@@ -1,0 +1,6 @@
+Celular
+Computator
+Bicicleta
+Relógio
+Carro
+Mosca
